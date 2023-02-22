@@ -21,7 +21,7 @@ Very excited to see what the future holds for me.⌛
 <br>
 <br>
 <br>
-**Toolbox:**
+**🧰Toolbox:**
 <br>
 <img src="https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/css-3.svg" width='50px'/>
 <img src="https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/html-1.svg" width='50px'/>
@@ -33,7 +33,7 @@ Very excited to see what the future holds for me.⌛
 <img src="https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/redux.svg" width='50px'/>
 <img src="https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/typescript.svg" width='50px'/>
 <img src="https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/wordpress-blue.svg" width='50px'/>
- and more ...
+ ...
 
 <br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
