@@ -18,15 +18,14 @@ Very excited to see what the future holds for me.⌛
 **Skills:** <br>
 ⚛️ REACT  <br>
 💻 JS / HTML / CSS / MongoDB / MySQL 
-
+<br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KateriinaOrrava)](https://github.com/KateriinaOrrava/github-readme-stats)
-[![KateriinaOrrava's GitHub stats](https://github-readme-stats.vercel.app/api?username=KateriinaOrrava)](https://github.com/KateriinaOrrava/github-readme-stats)
-<br/>
+<br/><br/>
 
 <img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-22.gif' width='250'>
-
+<br/><br/>
 Would 💙 to connect on: :wave: <br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KateriinaOrrava)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/katerina-orrava/) 
