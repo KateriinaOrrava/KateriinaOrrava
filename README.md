@@ -18,6 +18,19 @@ Very excited to see what the future holds for me.⌛
 **Skills:** <br>
 ⚛️ REACT  <br>
 💻 JS / HTML / CSS / MongoDB / MySQL 
+<br>
+<br>
+<br>
+**Toolbox:**
+<img src="" width='50px'/>
+<img src="" width='50px'/>
+<img src="" width='50px'/>
+<img src="" width='50px'/>
+<img src="" width='50px'/>
+<img src="" width='50px'/>
+<img src="" width='50px'/>
+<img src="" width='50px'/>
+<img src="" width='50px'/>
 <br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
