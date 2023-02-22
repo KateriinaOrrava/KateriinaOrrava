@@ -1,7 +1,7 @@
 ### “So…we meet at last.”
 
 
-I'm Katerina from Riga, Latvia. :round_pushpin: 
+I'm Katerina from Riga, Latvia. :round_pushpin: <br/>
 Overjoyed for taking the first steps in IT.
 Although I used to work as a math teacher and loved that job, I made the decision to learn new skills.
 Currently interested in Front End Development and determined to make my mark in the field. 
