@@ -21,6 +21,7 @@ Very excited to see what the future holds for me.⌛
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KateriinaOrrava)](https://github.com/KateriinaOrrava/github-readme-stats)
 [![KateriinaOrrava's GitHub stats](https://github-readme-stats.vercel.app/api?username=KateriinaOrrava)](https://github.com/KateriinaOrrava/github-readme-stats)
 <br/>
 
