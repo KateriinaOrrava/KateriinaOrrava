@@ -1,8 +1,8 @@
 <div align='center'>
   
-### Hi there …we meet at last.###
+### Hi there …we meet at last.
 
-#### Front - End developer from Riga, Latvia ####
+#### **Front - End developer from Riga, Latvia** ####
 </div>  
 
 I'm **Katerina** from Riga, Latvia. 📍
