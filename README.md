@@ -1,8 +1,8 @@
 <div align='center'>
   
-### Hi there …we meet at last.
+# Hi there … we meet at last 🤩
 
-#### **Front - End developer from Riga, Latvia** ####
+### **Front - End developer from Riga, Latvia** ####
 </div>  
 
 I'm **Katerina** from Riga, Latvia. 📍
@@ -16,8 +16,8 @@ Can't wait to learn from others and to share my own experiences and insights. �
 Very excited to see what the future holds for me.⌛
 <br>
 **Skills:** <br>
-*⚛️ REACT  <br>
-*💻 JS / HTML / CSS / MongoDB / MySQL 
+⚛️ REACT  <br>
+💻 JS / HTML / CSS / MongoDB / MySQL 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
