@@ -1,5 +1,17 @@
 ### “So…we meet at last.”
 
+### Hi there …we meet at last.
+#### Front - End developer from Riga, Latvia
+I'm Katerina from Riga, Latvia. 📍
+Overjoyed for taking the first steps in IT. 💻
+Although I used to work as a math teacher and loved that job, I made the decision to learn new skills. 💁
+Currently interested in Front End Development and determined to make my mark in the field. 🙏
+Always looking for new challenges and opportunities to grow and to improve my skills and knowledge. 📈 <br Would love to be part of a team that shares my passion for Front End Development. 👥
+Open to connecting with other professionals in the field and happy to connect on LinkedIn or Github. 👋
+Can't wait to learn from others and to share my own experiences and insights. 📓
+Very excited to see what the future holds for me.⌛
+
+Skills: REACT / JS / HTML / CSS / MongoDB / MySQL|
 
 I'm Katerina from Riga, Latvia. :round_pushpin: <br/>
 Overjoyed for taking the first steps in IT. :computer: <br>
