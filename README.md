@@ -2,7 +2,7 @@
 #### Front - End developer from Riga, Latvia
 <div align='center'>
 I'm **Katerina** from Riga, Latvia. 📍
-</div>  
+
 Overjoyed for taking the first steps in IT. 💻
 Although I used to work as a math teacher and loved that job, I made the decision to learn new skills. 💁
 Currently interested in Front End Development and determined to make my mark in the field. 🙏
@@ -10,7 +10,7 @@ Always looking for new challenges and opportunities to grow and to improve my sk
 Open to connecting with other professionals in the field and happy to connect on LinkedIn or Github. 👋
 Can't wait to learn from others and to share my own experiences and insights. 📓
 Very excited to see what the future holds for me.⌛
-
+</div>  
 Skills: REACT / JS / HTML / CSS / MongoDB / MySQL|
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
