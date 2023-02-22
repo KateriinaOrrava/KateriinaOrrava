@@ -1,7 +1,6 @@
-### “So…we meet at last.”
-
 ### Hi there …we meet at last.
 #### Front - End developer from Riga, Latvia
+
 I'm Katerina from Riga, Latvia. 📍
 Overjoyed for taking the first steps in IT. 💻
 Although I used to work as a math teacher and loved that job, I made the decision to learn new skills. 💁
