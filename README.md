@@ -22,6 +22,7 @@ Very excited to see what the future holds for me.⌛
 <br>
 <br>
 **Toolbox:**
+<br>
 <img src="https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/css-3.svg" width='50px'/>
 <img src="https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/html-1.svg" width='50px'/>
 <img src="https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/javascript-1.svg" width='50px'/>
