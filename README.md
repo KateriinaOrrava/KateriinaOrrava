@@ -1,6 +1,9 @@
-### Hi there …we meet at last.
-#### Front - End developer from Riga, Latvia
 <div align='center'>
+### Hi there …we meet at last.
+
+#### Front - End developer from Riga, Latvia
+</div>  
+
 I'm **Katerina** from Riga, Latvia. 📍
 
 Overjoyed for taking the first steps in IT. 💻
@@ -10,7 +13,7 @@ Always looking for new challenges and opportunities to grow and to improve my sk
 Open to connecting with other professionals in the field and happy to connect on LinkedIn or Github. 👋
 Can't wait to learn from others and to share my own experiences and insights. 📓
 Very excited to see what the future holds for me.⌛
-</div>  
+
 Skills: REACT / JS / HTML / CSS / MongoDB / MySQL|
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,8 +23,8 @@ Skills: REACT / JS / HTML / CSS / MongoDB / MySQL|
 Would 💙 to connect on LinkedIn or Github. :wave: <br>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KateriinaOrrava) <br/>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/katerina-orrava/)  <br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kate.orrava)  <br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kate666riina/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KateriinaOrrava) <br/><br/>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/katerina-orrava/)  <br><br/>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kate.orrava)  <br><br/>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kate666riina/)  <br/>
 
