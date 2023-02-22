@@ -24,6 +24,7 @@ Very excited to see what the future holds for me.⌛
 [![KateriinaOrrava's GitHub stats](https://github-readme-stats.vercel.app/api?username=KateriinaOrrava)](https://github.com/KateriinaOrrava/github-readme-stats)
 <br/>
 
+<img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-22.gif' width='250'>
 
 Would 💙 to connect on: :wave: <br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KateriinaOrrava)
