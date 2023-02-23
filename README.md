@@ -41,6 +41,7 @@ Very excited to see what the future holds for me.⌛
 <br/><br/>
 
 <img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-22.gif' width='250'>
+<img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23.gif' width='250'>
 <br/><br/>
 Would 💙 to connect on: :wave: <br>
 <br/>
