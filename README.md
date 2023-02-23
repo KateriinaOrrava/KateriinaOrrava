@@ -42,8 +42,8 @@ Very excited to see what the future holds for me.⌛
 
 
 <div style='display='flex'>
-  <img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-22.gif' width='250' tilte='Rick And Morty App fetching data'>
-  <img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23.gif' width='250' tilte='TODO App'>
+  <img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-22.gif' width='500' tilte='Rick And Morty App fetching data'>
+  <img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23.gif' width='500' tilte='TODO App'>
 </div>
 
 <br/><br/>
