@@ -43,10 +43,10 @@ Very excited to see what the future holds for me.⌛
 
 <div style='display='flex'>
 
-<img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23%20(1).gif' width='400' tilte='Forms with validation'>
+                          <a href="https://github.com/KateriinaOrrava/13_1_MD_FORM-validation"><img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23%20(1).gif' width='400' tilte='Forms with validation'></a><img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23%20(1).gif' width='400' tilte='Forms with validation'>
 <img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23%20(2).gif' width='400' tilte='Landing page'>
-    <img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-22.gif' width='400' tilte='Rick And Morty App fetching data'>
-  <img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23.gif' width='400' tilte='TODO App'>
+<img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-22.gif' width='400' tilte='Rick And Morty App fetching data'>
+<img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23.gif' width='400' tilte='TODO App'>
 </div>
 
 <br/><br/>
