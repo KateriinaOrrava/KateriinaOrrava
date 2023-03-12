@@ -41,14 +41,12 @@ Very excited to see what the future holds for me.⌛
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KateriinaOrrava)](https://github.com/KateriinaOrrava/github-readme-stats)
 <br/><br/>
 
-<div style='display="flex"'>
+<div style='display="flex"; gap="10px;"'>
 <a href="https://github.com/KateriinaOrrava/13_1_MD_FORM-validation"  target="_blank" rel="noreferrer"> <img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23%20(1).gif' width='380' title='Forms with validation'> </a>
 <a href="https://github.com/KateriinaOrrava/Responsive-Landing-Page"  target="_blank" rel="noreferrer"><img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23%20(2).gif' width='380' title='Landing page'></a>
 
 <a href="https://github.com/KateriinaOrrava/RickAndMorty-App-"  target="_blank" rel="noreferrer"><img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-22.gif' width='380' title='Rick And Morty App fetching data'></a>
 <a href="https://github.com/KateriinaOrrava/TODO-app-data-stored-in-MongoDB-"  target="_blank" rel="noreferrer"><img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23.gif' width='380' title='TODO App'></a>
-<a href='https://github.com/KateriinaOrrava/TODO-app-data-stored-in-MongoDB-' target="_blank" rel="noreferrer"><img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23.gif' width='380' title='TODO App'></a>
-
 </div>
 
 <br/><br/>
