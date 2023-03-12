@@ -46,7 +46,7 @@ Very excited to see what the future holds for me.⌛
 <a href="https://github.com/KateriinaOrrava/Responsive-Landing-Page"  target="_blank" rel="noreferrer"><img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23%20(2).gif' width='380' title='Landing page'></a>
 
 <a href="https://github.com/KateriinaOrrava/RickAndMorty-App-"  target="_blank" rel="noreferrer"><img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-22.gif' width='380' title='Rick And Morty App fetching data'></a>
-
+<a href="https://github.com/KateriinaOrrava/TODO-app-data-stored-in-MongoDB-"  target="_blank" rel="noreferrer"><img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23.gif' width='380' title='TODO App'></a>
 <a href='https://github.com/KateriinaOrrava/TODO-app-data-stored-in-MongoDB-' target="_blank" rel="noreferrer"><img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23.gif' width='380' title='TODO App'></a>
 
 </div>
