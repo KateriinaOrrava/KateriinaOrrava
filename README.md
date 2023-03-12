@@ -2,8 +2,9 @@
   
 # Hi there … we meet at last 🤩
 
-### **Front - End developer from Riga, Latvia** ####
-</div>  
+### **Front - End developer from Riga, Latvia**
+
+</div>
 
 I'm **Katerina** from Riga, Latvia. 📍
 
@@ -16,8 +17,8 @@ Can't wait to learn from others and to share my own experiences and insights. �
 Very excited to see what the future holds for me.⌛
 <br>
 **Skills:** <br>
-⚛️ REACT  <br>
-💻 JS / HTML / CSS / MongoDB / MySQL 
+⚛️ REACT <br>
+💻 JS / HTML / CSS / MongoDB / MySQL
 <br>
 <br>
 <br>
@@ -33,26 +34,23 @@ Very excited to see what the future holds for me.⌛
 <img src="https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/redux.svg" width='50px'/>
 <img src="https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/typescript.svg" width='50px'/>
 <img src="https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/wordpress-blue.svg" width='50px'/>
- ...
+...
 
 <br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KateriinaOrrava)](https://github.com/KateriinaOrrava/github-readme-stats)
 <br/><br/>
 
-
-<div style='display='flex'>
-
-                          <a href="https://github.com/KateriinaOrrava/13_1_MD_FORM-validation"><img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23%20(1).gif' width='400' tilte='Forms with validation'></a><img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23%20(1).gif' width='400' tilte='Forms with validation'>
-<img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23%20(2).gif' width='400' tilte='Landing page'>
-<img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-22.gif' width='400' tilte='Rick And Morty App fetching data'>
-<img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23.gif' width='400' tilte='TODO App'>
+<div>
+<a href="https://github.com/KateriinaOrrava/13_1_MD_FORM-validation"  target="_blank" rel="noreferrer"> <img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23%20(1).gif' width='400' title='Forms with validation'> </a>
+<img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23%20(1).gif' width='400' title='Forms with validation'>
+<img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23%20(2).gif' width='400' title='Landing page'>
+<img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-22.gif' width='400' title='Rick And Morty App fetching data'>
+<img src='https://github.com/KateriinaOrrava/KateriinaOrrava/blob/main/chrome-capture-2023-1-23.gif' width='400' title='TODO App'>
 </div>
 
 <br/><br/>
 Would 💙 to connect on: :wave: <br>
 <br/>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KateriinaOrrava)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/katerina-orrava/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kate.orrava)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kate666riina/)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KateriinaOrrava) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/katerina-orrava/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kate.orrava) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kate666riina/)
