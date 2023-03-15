@@ -17,7 +17,7 @@ Can't wait to learn from others and to share my own experiences and insights. �
 Very excited to see what the future holds for me.⌛
 <br>
 **Skills:** <br>
-⚛️ REACT <br>
+⚛️ REACT Vue Angular ExpressJs<br>
 💻 JS / HTML / CSS / MongoDB / MySQL
 <br>
 <br>
